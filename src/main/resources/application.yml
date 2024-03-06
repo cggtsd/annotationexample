@@ -1,0 +1,8 @@
+my:
+ greeting: Hello World from yml
+ list:
+  values: One,Two,Three
+ dbValues: '{connection:"http://____",userName:"foo",password:"pass"}'
+
+
+
