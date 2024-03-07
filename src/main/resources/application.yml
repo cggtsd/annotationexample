@@ -4,5 +4,14 @@ my:
   values: One,Two,Three
  dbValues: '{connection:"http://____",userName:"foo",password:"pass"}'
 
+db:
+ connection: '{connection:"http://____",userName:"foo",password:"pass"}'
+ host: localhost
+ port: 2222
+
+database:
+  active: true
+
+
 
 
